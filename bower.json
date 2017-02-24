@@ -1,6 +1,6 @@
 {
   "name": "tk-dropdown",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A jQuery plugin which generates customizable dropdown menu from Wordpress/Any UL lists",
   "main": "dist/jquery.tkDropdown.js",
   "keywords": [
